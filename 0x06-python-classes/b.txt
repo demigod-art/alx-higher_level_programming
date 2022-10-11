@@ -1,0 +1,1 @@
+since my work with git i have not test the gitignore so i want to test it now
